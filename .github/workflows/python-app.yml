@@ -31,4 +31,5 @@ jobs:
         pip install -r requirements.txt
 
         pip freeze | grep kfp
+        pip freeze | grep aiplatform
         pip freeze | grep pipeline_components
