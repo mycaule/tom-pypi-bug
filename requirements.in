@@ -1,3 +1,3 @@
-kfp==1.8.9
-google-cloud-aiplatform===1.8.0
-google_cloud_pipeline_components==0.2.0
+# kfp==1.8.9
+google-cloud-aiplatform==1.12.1
+# google_cloud_pipeline_components==0.2.0
